@@ -86,6 +86,9 @@ The solution is based on three relational tables:
 
 This project is for **educational and portfolio use** only.  
 All data is **synthetic** and does not contain real personal or financial information.
+**screenshot**
+https://github.com/abirpython300/Banking_Analytics/blob/main/FA.PNG
+
 
 ---
 
